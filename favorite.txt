@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Garri
-Beans
-Rice
-=======
-Airbender
-Resident Evil
-Ocean Eleven
->>>>>>> movies
